@@ -19,11 +19,10 @@ No external database or third-party library is required.
 ## Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Anubhavgrawal/persistent-priority-queue.git
 cd persistent-priority-queue
 ```
 
-> Replace `<YOUR_GITHUB_REPOSITORY_URL>` with the actual repository URL after publishing the project.
 
 ## Compile
 
